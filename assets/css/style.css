@@ -1,0 +1,25 @@
+body {
+    background-color: #CCC
+}
+.top {
+    top: 40px;
+}
+.buttons-wrapper {
+    top: 40px;
+    margin-bottom: 15px
+}
+.editor-wrapper {
+    position: relative;
+    min-height: 500px;
+}
+.output-wrapper {
+    background-color: #EEE;
+    min-height: 500px;
+}
+#editor { 
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
